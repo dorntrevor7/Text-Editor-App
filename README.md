@@ -42,7 +42,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Deployment
 
-This is deployed with [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide) and is hosted on [text-editor-app.com](https://coding-boot-camp).
+This is deployed with [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide) and is hosted on [text-editor-app-01.com](https://text-editor-app-01.herokuapp.com/).
 
 ## Mock-Up
 
